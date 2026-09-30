@@ -4,7 +4,7 @@ A measurement project in the spirit of Spotify's **Discovery Mode**: define what
 discovery is, try to predict it from the first listen, test whether *how* a song reaches me
 changes it, and design a randomized experiment to check.
 
-**Live dashboard:** `https://paigehaskins.github.io/spotify-discovery-measurement/` (see "Publish the dashboard")
+**Live dashboard:** `https://paigehaskins.github.io/spotify-discovery-measurement` (see "Publish the dashboard")
 
 ## Results (Oct 2016 to Sep 2026)
 
